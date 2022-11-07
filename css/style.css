@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.logo svg{
+    width: 60%;
+}
+.logo{
+    float: left;
+}
+.navbar{
+    float: right;
+    margin-top: 7px;
+}
+.header{
+    overflow: auto;
+    padding: 20px 5rem;
+    position: fixed;
+    width: 100%;
+}
+.navbar a{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 30px;
+}
+.slider{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 20rem 0;
+}
+.slider a{
+    background-color: #ffc800;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 20px 40px;
+}
+.slider h3{
+    font-style: italic;
+    font-size: 36px;
+    color: #ffffff;
+    margin: 0 0 32px;
+}
+.slider h1{
+    font-size: 72px;
+    color:#ffffff;
+    margin: 0 0 64px;
+}
+.container{
+    padding: 96px 0;
+}
+.container h2{
+    color:#212529;
+    font-size: 40px;
+    text-align: center;
+    margin: 0 0 16px;
+    
+    
+}
+ .container h3{
+    color:#6c757d;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+    margin: 0 0 64px;
+
+ }
+ .box h4{
+    color:#212529;
+    font-size: 24px;
+    margin: 0 0 16px;
+ }
+ .box p{
+    color: #6c757d;
+    font-size: 16px;
+ }
+ .box{
+width: 23%;
+float: left;
+margin: 30px 5%;
+ }
+ .portfolio-box{
+    width:31%;
+    float:left;
+    margin: 30px 1%;
+ }
+.portfolio-box img{
+    width:100%;
+    vertical-align: bottom;
+    
+}
+.portfolio-content{
+    background-color: #ffffff;
+    padding: 25px;
+}
+ .portfolio h2{
+    text-align: center;
+    font-size: 40px;
+    color:#212529;
+    margin:0 0 16px;
+
+ }
+ .portfolio{
+padding: 96px 0;
+ }
+ .portfolio h3{
+    text-align: center;
+    color: #6c757d;
+    font-style: italic;
+    font-size: 16px;
+    margin: 0 0 64px;
+ }
+ .portfolio h4{
+    text-align: center;
+    color: #212529;
+    font-size:24px;
+
+ }
+ .portfolio p{
+    text-align: center;
+    color:#6c757d;
+    font-style: italic;
+    font-size: 16px;
+ }
